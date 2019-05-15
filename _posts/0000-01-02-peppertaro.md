@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I could not find pencil icon but hope to work this well!
 Use the left arrow to go back!
